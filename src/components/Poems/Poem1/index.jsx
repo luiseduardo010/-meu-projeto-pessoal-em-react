@@ -106,5 +106,4 @@ e RECOMECE novamente. <br />
     </div>
   );
 }
-jjjjjjjj
 export default Poem1;
