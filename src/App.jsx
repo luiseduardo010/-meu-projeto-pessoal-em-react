@@ -1,4 +1,4 @@
-import Subtitle from "./components/Subtitle/index.jsx"
+import Subtitle from "./components/Subtitle/index"
 import Poem1 from './components/Poems/Poem1'
 import Styles from './components/Subtitle/styles.module.css'
 
