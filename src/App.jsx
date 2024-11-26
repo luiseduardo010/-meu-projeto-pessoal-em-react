@@ -1,6 +1,6 @@
 import Subtitle from "./components/Subtitle"
 import Poem1 from './components/Poems/Poem1'
-import styles from './components/Subtitle/styles.module.css'
+import style from './components/Subtitle/styles.module.css'
 
 export default function App() {
   return(
